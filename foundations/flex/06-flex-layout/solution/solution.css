@@ -54,7 +54,8 @@ a {
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 16px;
+  gap: 16px;
+  margin: 16px;
 }
 
 .footer {
